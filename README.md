@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GabrielFreireDev
 - 👀 I’m interested in  projetos e programas em Python.
-- 🌱 I’m currently learning Python, HTML e CSS.
-- 💞️ I’m looking to collaborate projetos e programas Python e também páginas de internet com HTML e CSS.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate projetos e programas Python.
 - 📫 How to reach me  e-mail pessoal: gabriel-freire09@hotmail.com / perfil LinkedIn: https://www.linkdedin.com/in/gabriel-freire-171495ba 
 
 <!---
